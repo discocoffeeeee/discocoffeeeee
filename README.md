@@ -1,6 +1,6 @@
 
 # 👋 Hey, I'm Ala'a!
-Software Engineer | Mobile Developer  
+Software Engineer | Mobile Developer | Product manager 
 
 ### Reach me on
 [![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe)](https://twitter.com/discocoffeeee_)
@@ -12,6 +12,8 @@ Software Engineer | Mobile Developer
 {
       "language": ["Dart"],
       "mobile": ["flutter"],
+      "now": ["Product_manager"],
+
 }
 ```
 - 🤔 <b>Exploring:</b> Native Mobile ideas
